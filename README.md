@@ -1,4 +1,4 @@
-# StaringAtGhost
+﻿# StaringAtGhost
 
 ![logo](Logo&Psd/logo_icon.png)
 
@@ -16,10 +16,10 @@
   │
   │
   └─SourceCode //源代码
-  	├─Nodejs
-	│		insertdata.js
-    │		mysql.js
-    │		showdata.js
+    ├─Nodejs
+    │	insertdata.js
+    │	mysql.js
+    │	showdata.js
     │      
     └─StaringAtGhost
 
