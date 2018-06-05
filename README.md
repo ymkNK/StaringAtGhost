@@ -3,25 +3,13 @@
 ![logo](Logo&Psd/logo_icon.png)
 
 ## Tree
-│  1412631-1511468-1511471StaringAtGhost.docx
-│  1412631-1511468-1511471StaringAtGhost.pdf
-│  README.md
-│  temp.txt
-│  
 ├─APK
-│      app-release.apk
-│      
 ├─Logo&Psd
-│      
 ├─ScreenShot
-│      
 └─SourceCode
     ├─Nodejs
-    │      insertdata.js
-    │      mysql.js
-    │      showdata.js
-    │      
     └─StaringAtGhost
+
 
 
 ##  成员
