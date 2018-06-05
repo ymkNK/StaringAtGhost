@@ -3,25 +3,26 @@
 ![logo](Logo&Psd/logo_icon.png)
 
 ## Tree
-  ├─APK 
-  │      app-release.apk //程序安装包
-  │ 
-  ├─1412631-1511468-1511471StaringAtGhost.pdf //相关介绍文档
-  │
-  │
-  ├─Logo&Psd //相关的logo以及psd文件
-  │
-  │
-  ├─ScreenShot //应用截图
-  │
-  │
-  └─SourceCode //源代码
+│  1412631-1511468-1511471StaringAtGhost.docx
+│  1412631-1511468-1511471StaringAtGhost.pdf
+│  README.md
+│  temp.txt
+│  
+├─APK
+│      app-release.apk
+│      
+├─Logo&Psd
+│      
+├─ScreenShot
+│      
+└─SourceCode
     ├─Nodejs
-    │	insertdata.js
-    │	mysql.js
-    │	showdata.js
+    │      insertdata.js
+    │      mysql.js
+    │      showdata.js
     │      
     └─StaringAtGhost
+
 
 ##  成员
 - 1412631 南健博 
