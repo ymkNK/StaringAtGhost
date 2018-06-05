@@ -33,9 +33,12 @@
 
 ## 应用截图
 - 主界面
-  ![](ScreenShot/Screenshot_2018-06-03-23-34-51-520_com.example.a2.png =180x320)
+<img src="ScreenShot/Screenshot_2018-06-03-23-34-51-520_com.example.a2.png" width="180" height="320" />
+	
 - 游戏界面
-  ![](ScreenShot/Screenshot_2018-06-03-23-34-55-973_com.example.a2.png)
-  ![](ScreenShot/Screenshot_2018-06-05-19-57-55-357_com.example.a2.png)
+<img src="ScreenShot/Screenshot_2018-06-03-23-34-55-973_com.example.a2.png" width="180" height="320" />
+<img src="ScreenShot/Screenshot_2018-06-05-19-57-55-357_com.example.a2.png" width="180" height="320" />
+
 - 排行榜界面
-  ![](ScreenShot/Screenshot_2018-06-03-23-35-02-422_com.example.a2.png)
+<img src="ScreenShot/Screenshot_2018-06-03-23-35-02-422_com.example.a2.png" width="180" height="320" />
+
