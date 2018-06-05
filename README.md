@@ -5,21 +5,21 @@
 ## Tree
   ├─APK 
   │      app-release.apk //程序安装包
-  │      
+  │ 
   ├─1412631-1511468-1511471StaringAtGhost.pdf //相关介绍文档
-  │     
-  │      
+  │
+  │
   ├─Logo&Psd //相关的logo以及psd文件
-  │   
-  │      
+  │
+  │
   ├─ScreenShot //应用截图
-  │  
-  │      
+  │
+  │
   └─SourceCode //源代码
-    ├─Nodejs
-    │      insertdata.js
-    │      mysql.js
-    │      showdata.js
+  	├─Nodejs
+	│		insertdata.js
+    │		mysql.js
+    │		showdata.js
     │      
     └─StaringAtGhost
 
