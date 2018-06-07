@@ -23,7 +23,10 @@
 - 1511471 詹明鑫 
 
 ## 应用平台下载链接
-暂无
+- 上线在阿里应用平台
+- http://server.m.pp.cn/download/apk?appId=7760334&custom=0&ch_src=pp_dev&ch=default
+## 应用推广链接
+- http://m.pp.cn/detail.html?appid=7760334&ch_src=pp_dev&ch=default
 
 ## 项目主要工作内容
 利用一学期在移动平台开发的课程中所学的知识，实现一个在安卓客户端的小游戏，老少皆宜，休闲益智，并且在开发过程中逐步优化游戏体验。
